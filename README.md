@@ -1,2 +1,3 @@
-# data_science_notebooks
-Notebooks on various data science topics
+# Data Science Notebooks
+
+Notebooks on various data science topics. 
